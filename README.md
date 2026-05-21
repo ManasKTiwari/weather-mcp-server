@@ -15,7 +15,7 @@ A local Python MCP server using FastMCP and OpenWeather API.
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/weather-mcp-server.git
+git clone https://github.com/ManasKTiwari/weather-mcp-server.git
 cd weather-mcp-server
 ```
 
